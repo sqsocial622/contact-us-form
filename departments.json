@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "depart":1,
+            "departNmae":"sale"
+        },
+        {
+            "depart":2,
+            "departNmae":"marketing"
+        },
+        {
+            "depart":3,
+            "departNmae":"admin"
+        },
+        {
+            "depart":3,
+            "departNmae":"CEO"
+        },
+        {
+            "depart":3,
+            "departNmae":"Owner"
+        }
+    ]
+}
